@@ -1,1 +1,1 @@
-1
+This project is to use Spinal language to solve the problem in VHDLbits. It is still being completed and will be updated continuously!
